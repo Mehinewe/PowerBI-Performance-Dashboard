@@ -1,55 +1,92 @@
-# AdventureWorks Dashboard - Power BI
+# AdventureWorks Sales Dashboard – Power BI
 ![Executive Dashboard](/Images/exec%20dashboard.png)
 
 ## Introduction
-This dashboard was created for **AdventureWorks; a company which sales bikes, clothings and accessories** to help them **analyse the performance** of the company to make data driven decisions. The dataset include: sales data, product information and customers information. This project provides an easy-to-use interface to explore **revenu and product trend without forgetting top customers**.
+This interactive **Power BI dashboard** was developed for **AdventureWorks**, a company that sells **bikes, clothing, and accessories**. The goal of this project is to help the business **analyze its performance and support data-driven decision making.**
+
+The dataset includes **sales transactions, product information, and customer data.**
+The dashboard provides an intuitive interface that allows users to easily explore **revenue trends, product performance, and key customer insights.** 
 
 ## Skills Showcased
 - **Data Transformation (ETL) with Power Query:**
-Cleaned and prepared the raw data for analysis by 
-    - Handling blanks
-    - Removing Duplicates
-    - Changing data types
-    - Creating new columns
+Prepared and transformed raw data to make it analysis-ready by: 
+    - Handling missing values
+    - Removing duplicate records
+    - correcting and standardizing data types
+    - Creating calculated columns for analysis
 
-- **Explicit Measures:**
-Formuled Measures to derive key insights and KPIs like 
+- **Data Modeling & Measures (DAX):**
+Created explicit measures to calculate key business metrics, including:
     - Total Revenue
     - Total Profit
     - Total Orders
-    - Return Rate
+    - Return Rate  
 
-- **Core Charts:**
-Utilized Column, Bar, Line, donut, Area Charts and KPI Cards to compare products, segment customers  track trends over time, and display key metrics.
+These measures help track overall business performance and support strategic decision-making.
+
+- **Data Visualization:**
+Built various interactive visualizations to communicate insights effectively:
+    - Column Charts
+    - Bar Charts
+    - Line Charts
+    - Donut Charts
+    - Area Charts
+    - KPI Cards
+
+These visuals help compare product performance, analyze customer segments, and track trends over time.
 
 - **Dashboard Design:**
-Designed an intuitive and visualy appealing layout with simple charts to tell best stories.
+Designed a clean and user-friendly layout focused on clarity and usability, enabling stakeholders to quickly understand key metrics and insights.
 
 - **Interactive Reporting:**
-    - **Slicers**: to dynamically filter the report
-    - **Buttons & Bookmarks**: to create a seamless navigation experience
-    - **Drill-Through**: to navigate from a high level summary to a detailed view.
+Implemented several interactive features to improve user experience:
+    - **Slicers**: for dynamic filtering
+    - **Buttons & Bookmarks**: for seamless navigation
+    - **Drill-Through**: to move from high-level summaries to detailed analysis.
 
 ## Dashboard Overview
 ### Executive Dashboard: High-level Performance Overview
 ![Executive Dashboard](/Images/exec%20dashboard.png)
 
-This the  AdventureWorks Executive dashboard that showcase the overall performance of the company. It inclue KPIs such as Revenue, Profit, Orders and Return rate. It also showcase revenue trend, customers and category performance.
+This page provides a high-level overview of the company’s performance.
+It highlights key KPIs such as:
+- Revenue
+- Profit
+- Orders
+- Return Rate
 
-### Map: Geographical repartition of customers
+The dashboard also presents revenue trends over time, top customers, and category performance, helping executives quickly evaluate business performance.
+
+### Map: Geographic Distribution of Customers
 ![Executive Dashboard](/Images/map.png)
 
-The Map page showcase where we have customers from and volume of order for each location
+This page displays the geographical distribution of customers and the order volume by location, allowing users to identify important markets and regional sales patterns.
 
-### Product Detail: detailed product perfomance
+### Product Detail: Product Performance Analysis
 ![Product Detail](/Images/product_detail.png)
 
-This page showcase the delected product performance vs target and different trends according to selected metrics.
+This page provides a detailed analysis of product performance compared to targets.
+
+Users can analyze different trends depending on the selected metrics and better understand how individual products contribute to overall revenue and profitability.
 
 ### Customer Detail: customer insights
 ![Customer Detail](/Images/customer_detail.png)
 
-On this page, we can see the total number of customers and how much each spend on average. We can also see thetop customers and the customer acquisition trend.
+This page focuses on customer behavior and value.
+Key insights include:
+- Total number of customers
+- Average revenue per customer
+- Top customers
+- Customer acquisition trends over time
 
 ## Conclusion
-This dashboard showcases how Power Bi can transfome raw sales data into a powerful tool for performance analysis and decision making. It allows users to slice, filter and drill through data to make informed decision about products inventory, customers and regions to target for marketing campains and stimulate impact of price adjustement on profit.
+This dashboard demonstrates how Power BI can transform raw sales data into a powerful analytical tool for business intelligence.
+
+By combining data transformation, DAX calculations, and interactive visualizations, this solution enables users to:
+- Explore sales performance
+- Identify high-performing products
+- Understand customer behavior
+- Detect regional opportunities
+- Support marketing and pricing decisions
+
+Ultimately, the dashboard empowers stakeholders to make informed, data-driven decisions to drive business growth.
