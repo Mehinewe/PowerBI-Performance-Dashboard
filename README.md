@@ -1,5 +1,5 @@
 # AdventureWorks Sales Dashboard – Power BI
-![Executive Dashboard](/Images/exec%20dashboard.png)
+![Executive Dashboard](/Images/exec_dashboard.png)
 
 ## Introduction
 This interactive **Power BI dashboard** was developed for **AdventureWorks**, a company that sells **bikes, clothing, and accessories**. The goal of this project is to help the business **analyze its performance and support data-driven decision making.**
@@ -46,7 +46,7 @@ Implemented several interactive features to improve user experience:
 
 ## Dashboard Overview
 ### Executive Dashboard: High-level Performance Overview
-![Executive Dashboard](/Images/exec%20dashboard.png)
+![Executive Dashboard](/Images/exec_dashboard.png)
 
 This page provides a high-level overview of the company’s performance.
 It highlights key KPIs such as:
