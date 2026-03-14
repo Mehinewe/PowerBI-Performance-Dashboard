@@ -92,3 +92,20 @@ By combining data transformation, DAX calculations, and interactive visualizatio
 - Support marketing and pricing decisions
 
 Ultimately, the dashboard empowers stakeholders to make informed, data-driven decisions to drive business growth.
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share it with proper attribution.
+
+## 🗒️ Data Source & Attribution
+**Data Source**: The data comes from [Maven Analytics](https://www.linkedin.com/products/maven-analytics/) .  
+**Note**: All analysis, data modeling, and visualizations are my own work.
+
+## 🌟 About Me
+Hi there, I’m Mehinewe Kedewouli 👋  
+I’m a Data Analyst, and I help organizations leverage their data to accelerate performance and growth.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LeverageDataa)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehinewe-kedewouli/)
