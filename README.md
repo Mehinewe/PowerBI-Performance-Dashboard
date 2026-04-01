@@ -1,5 +1,4 @@
 # AdventureWorks Sales Dashboard – Power BI
-![Executive Dashboard](/Images/exec_dashboard.png)
 
 [View the Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=15f6cbf5-eddb-4851-b8bd-f5e752430dd4&autoAuth=true&ctid=50e16dbd-d9db-43ad-a429-e282cfdafea0&actionBarEnabled=true)
 
